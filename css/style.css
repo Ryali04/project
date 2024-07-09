@@ -1,0 +1,374 @@
+body
+{
+	margin: 0;
+}
+.mainDiv{
+	margin: auto;
+	width: 100%;
+	padding: 20px;
+}
+.div1{
+	margin-top: 80px;
+	width: 20%;
+	margin-left: 200px;
+}
+.div1 h1{
+	font-size: 40px;
+	color: #f5ce22;
+}
+.div1 h2{
+	font-size: 30px;
+	color:#848a88 ;
+}
+.div1 h3{
+	font-size: 12px;
+	color: #1f2422;
+}
+.div1 menu{
+	float: left;
+	width: 35%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+
+}
+.menu-page{
+	color: #1f2422;
+	text-decoration: none;
+	font-size: 15px;
+}
+.menu1{
+	color:  #f5ce22;
+	text-decoration: none;
+}
+.div1 button{
+	margin-top: 20px;
+	padding-top:5px;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 5px;
+	
+}
+.img{
+	float: right;
+	margin-right: 400px;
+	width: 450px;
+	margin-top: 50px;
+}
+.clear{
+	clear:both;
+}
+.section-1{
+	height: 250px;
+	margin-top: 150px;
+	padding:  0 20px;
+	background:#f5ce22;
+	width: 100%;
+}
+.sub{
+	height: 200px;
+	width: 20%;
+	background: white;
+margin-left: 60px;
+padding: 0 20px;
+float: left;
+
+}
+.section-1 b{
+	color: #f5ce22;
+	margin-left: 40px;
+	font-size: 20px;
+}
+.section-1 i{
+	font-size: 17px;
+}
+.icon{
+	background:  #f5ce22;
+	display: inline-block;
+	border-radius: 8px  #f5ce22;
+	line-height: 30px;
+	height: 25px;
+	width: 30px;
+	text-align: center;
+	margin-left: 100px;
+}
+.section-2{
+	background: #ededeb;
+	height: 350px;
+	padding-top: 60px;
+
+}
+.sub-1 b{
+	margin: 600px;
+	font-size:40px;
+    height: 80px;
+    	
+}
+.sub-1 p{
+	text-align: center;
+	font-size: 12px;
+}
+.button p {
+    background: #f5ce22;
+    display: inline-block;
+    padding: 10px 0 5px 5px;
+    border-radius: ;
+    position: absolute;
+    margin-left: 650px;
+    text-align: center;
+}
+.section-3{
+	width: 100%;
+	height: 300px;
+
+}
+.section-3 img{
+	width: 100%;
+	height:300px ;
+}
+.section-4{
+	width: 100%;
+	height: 300px;
+}
+.sub-2{
+	width: 100%;
+	height: 500px;
+	background:url(../images/img5.jpg) no-repeat;
+}
+.sub-2 b{
+	font-size: 40px;
+	padding-left: 40px;
+	padding: 70px;
+}
+.sub-2 p{
+	padding-left:70px;
+}
+.subDivs{
+	width: 100%;
+	height: 500px;
+}
+.sub-3{
+	width: 30%;
+	height: 300px;
+	background: white;
+	padding-left: 70px;
+	float: left ;
+}
+.sub-3 img{
+	width: 100%;
+	height: 180px;
+    padding: 20px;
+}
+.sub-3 i{
+	color:#f5ce22 ;
+	padding-left: 20px;
+	font-size: 20px;
+}
+.sub-3 p{
+	padding-left: 20px;
+	padding-top: 10px;
+}
+.clear{
+	clear:both;
+}
+.section-5{
+	width: 100%;
+	height: 290px;
+	background: black;
+}
+.home{
+	width: 100%;
+	height: 100px;
+}
+.home b{
+	color: white;
+	font-size: 30px;
+	padding-left: 400px;
+	padding-top: 20px;
+}
+.home p{
+	color: grey;
+	padding-left: 250px;
+}
+.division{
+	width: 100%;
+	height: 180px;
+}
+.subMain{
+	width: 30%;
+	height: 180px;
+	padding-left: 100px;
+	float: left;
+}
+.subMain b{
+	color: #f5ce22;
+
+}
+.subMain p{
+	color:#dce8e0;
+}
+.clear{
+	clear:both;
+}
+.section-6{
+	width: 100%;
+	height: 220px;
+	background: black;
+}
+.but{
+	width: 100%;
+	padding-left: 550px;
+}
+.but button{
+	background: black;
+	color: #f5ce22;
+	border-color: #f5ce22;
+}
+.clear{
+	clear:both;
+}
+.section-7{
+	width: 100%;
+	height: 430px;
+}
+.leftDiv{
+	width: 50%;
+	height: 450px;
+	background: #d6d4ce;
+	float: left;
+}
+.rightDiv{
+	width: 50%;
+	height: 450px;
+	background: white;
+	float: right;
+}
+.right1{
+	width: 50%;
+	height: 250px;
+margin-top: 110px;
+margin-left: 100px;
+}
+.right1 b{
+	color: black;
+	font-size: 35px;
+	margin: 0 auto;
+
+}
+.right1 p{
+	padding-top: 15px;
+}
+.menus{
+	width: 40%;
+}
+.menu-1{
+	text-decoration: none;
+}
+.menu-1:first-child{
+	color: #f03a88;
+}
+.buts{
+	width: 100%;
+	padding-left: 100px;
+}
+.buts button{
+	background: white;
+	color: black;
+	border-color: black;
+	width: 20%;
+	height: 40px;
+}
+.mid1{
+	width: 30%;
+	height: 300px;
+	background: #f5ce22;
+	margin-left: 300px;
+	margin-top: 100px;
+	position: absolute;
+}
+.mid1 img{
+	width: 100%;
+	height: 280px;
+	padding-left:30px;
+	padding-bottom: 20px;
+	position: relative;
+	left: 20px;
+	bottom: 20px;
+}
+.clear{
+	clear:both;
+}
+.section-8{
+	width: 100%;
+	height: 400px;
+	background: black;
+}
+.m1{
+	width: 100%;
+	height: 350px;
+	background: black;
+	position: relative;
+	
+}
+.right-1{
+	width: 60%;
+	height: 320px;
+	background: white;
+	float: right;
+	margin-top: 30px;
+	margin-right: 20px;
+}
+.right-1 input{
+	padding-top: 30px;
+	margin-left: 60px;
+}
+.but2{
+	padding-right: 10px;
+	margin-top: 10px;
+	margin-left: 60px;
+}
+.left-1{
+	width: 20%;
+	height: 300px;
+	background: #f5ce22;
+	float: left;
+	margin-left: 221px;
+	margin-top: 40px;
+	position: absolute;
+	left: 100px;
+}
+.call{
+	width: 100%;
+	padding-left: 20px;
+	padding-top: 30px;
+}
+.call b{
+	color: black;
+}
+.call p{
+	padding-top: 10px;
+}
+.clear{
+	clear: both;
+}
+.section-9{
+	width: 100%;
+	height: 80px;
+	background: black;
+}
+.men{
+	width: 100%;
+
+}
+.menu-2{
+	text-decoration:none;
+	margin-left: 80px;
+	color: darkgrey;
+
+}
+.men i{
+	font-size: 20px;
+	color: darkgrey;
+}
+
